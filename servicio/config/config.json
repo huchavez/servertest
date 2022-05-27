@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "1234",
-    "database": "dbtfg",
-    "host": "127.0.0.1",
+    "username": "ocxhfqoveaccnd",
+    "password": "5802d4cc431c2669ade6c83bab80e5e895909a89b22ca7b2e4d92e4442a047c9",
+    "database": "dc2m2759o490q0",
+    "host": "ec2-3-234-131-8.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
